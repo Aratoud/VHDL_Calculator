@@ -2,7 +2,7 @@
 
 This is a simple post-fix calculator capable of handling 4 basic arithmetic operations on 3-bit decimal numbers
 
-[Video Of The Project](https://www.youtube.com/watch?v=KgNEJJRphXg&t=4s)
+[Video Of The Project](https://www.youtube.com/watch?v=KgNEJJRphXg)
 
 ## Getting Started
 
