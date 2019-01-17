@@ -1,6 +1,6 @@
 # VHDL CALCULATOR
 
-This is a simple post-fix calculator capable of handling 4 basic arithmetic operations on 3 bit decimal numbers
+This is a simple post-fix calculator capable of handling 4 basic arithmetic operations on 3-bit decimal numbers
 
 [Video Of The Project](https://www.youtube.com/watch?v=KgNEJJRphXg&t=4s)
 
@@ -17,7 +17,7 @@ The code can be tested on any FPGA board with VGA output. But the development wa
 
 Most of the credit goes to the book *Fundamentals of Digital Logic with VHDL Design* written by Stephen D. Brown,  Zvonko G. Vranesic
 I read the book and tried to implement the multiplier circuit myself.
-Additionally, I could have not understand and done my project without the help of my Digital Design professor [Ergin Atalar](http://www.umram.bilkent.edu.tr/~ergin/mycv/index.php) and my TA [Alireza Javanmardi](javanmardiee.bilkent.edu.tr)
+Additionally, I could have not understood and done my project without the help of my Digital Design professor [Ergin Atalar](http://www.umram.bilkent.edu.tr/~ergin/mycv/index.php) and my TA [Alireza Javanmardi](javanmardiee.bilkent.edu.tr)
 
 ## Authors
 
